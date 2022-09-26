@@ -1,0 +1,14 @@
+C:\Users\teodo\source\repos\Conditional Statements Advanced - Lab\03. Animal Type\bin\Debug\netcoreapp3.1\03. Animal Type.exe
+C:\Users\teodo\source\repos\Conditional Statements Advanced - Lab\03. Animal Type\bin\Debug\netcoreapp3.1\03. Animal Type.deps.json
+C:\Users\teodo\source\repos\Conditional Statements Advanced - Lab\03. Animal Type\bin\Debug\netcoreapp3.1\03. Animal Type.runtimeconfig.json
+C:\Users\teodo\source\repos\Conditional Statements Advanced - Lab\03. Animal Type\bin\Debug\netcoreapp3.1\03. Animal Type.runtimeconfig.dev.json
+C:\Users\teodo\source\repos\Conditional Statements Advanced - Lab\03. Animal Type\bin\Debug\netcoreapp3.1\03. Animal Type.dll
+C:\Users\teodo\source\repos\Conditional Statements Advanced - Lab\03. Animal Type\bin\Debug\netcoreapp3.1\03. Animal Type.pdb
+C:\Users\teodo\source\repos\Conditional Statements Advanced - Lab\03. Animal Type\obj\Debug\netcoreapp3.1\03. Animal Type.csproj.AssemblyReference.cache
+C:\Users\teodo\source\repos\Conditional Statements Advanced - Lab\03. Animal Type\obj\Debug\netcoreapp3.1\03. Animal Type.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\teodo\source\repos\Conditional Statements Advanced - Lab\03. Animal Type\obj\Debug\netcoreapp3.1\03. Animal Type.AssemblyInfoInputs.cache
+C:\Users\teodo\source\repos\Conditional Statements Advanced - Lab\03. Animal Type\obj\Debug\netcoreapp3.1\03. Animal Type.AssemblyInfo.cs
+C:\Users\teodo\source\repos\Conditional Statements Advanced - Lab\03. Animal Type\obj\Debug\netcoreapp3.1\03. Animal Type.csproj.CoreCompileInputs.cache
+C:\Users\teodo\source\repos\Conditional Statements Advanced - Lab\03. Animal Type\obj\Debug\netcoreapp3.1\03. Animal Type.dll
+C:\Users\teodo\source\repos\Conditional Statements Advanced - Lab\03. Animal Type\obj\Debug\netcoreapp3.1\03. Animal Type.pdb
+C:\Users\teodo\source\repos\Conditional Statements Advanced - Lab\03. Animal Type\obj\Debug\netcoreapp3.1\03. Animal Type.genruntimeconfig.cache
