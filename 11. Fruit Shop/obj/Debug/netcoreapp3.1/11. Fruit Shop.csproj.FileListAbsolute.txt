@@ -1,0 +1,14 @@
+C:\Users\teodo\source\repos\Conditional Statements Advanced - Lab\11. Fruit Shop\bin\Debug\netcoreapp3.1\11. Fruit Shop.exe
+C:\Users\teodo\source\repos\Conditional Statements Advanced - Lab\11. Fruit Shop\bin\Debug\netcoreapp3.1\11. Fruit Shop.deps.json
+C:\Users\teodo\source\repos\Conditional Statements Advanced - Lab\11. Fruit Shop\bin\Debug\netcoreapp3.1\11. Fruit Shop.runtimeconfig.json
+C:\Users\teodo\source\repos\Conditional Statements Advanced - Lab\11. Fruit Shop\bin\Debug\netcoreapp3.1\11. Fruit Shop.runtimeconfig.dev.json
+C:\Users\teodo\source\repos\Conditional Statements Advanced - Lab\11. Fruit Shop\bin\Debug\netcoreapp3.1\11. Fruit Shop.dll
+C:\Users\teodo\source\repos\Conditional Statements Advanced - Lab\11. Fruit Shop\bin\Debug\netcoreapp3.1\11. Fruit Shop.pdb
+C:\Users\teodo\source\repos\Conditional Statements Advanced - Lab\11. Fruit Shop\obj\Debug\netcoreapp3.1\11. Fruit Shop.csproj.AssemblyReference.cache
+C:\Users\teodo\source\repos\Conditional Statements Advanced - Lab\11. Fruit Shop\obj\Debug\netcoreapp3.1\11. Fruit Shop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\teodo\source\repos\Conditional Statements Advanced - Lab\11. Fruit Shop\obj\Debug\netcoreapp3.1\11. Fruit Shop.AssemblyInfoInputs.cache
+C:\Users\teodo\source\repos\Conditional Statements Advanced - Lab\11. Fruit Shop\obj\Debug\netcoreapp3.1\11. Fruit Shop.AssemblyInfo.cs
+C:\Users\teodo\source\repos\Conditional Statements Advanced - Lab\11. Fruit Shop\obj\Debug\netcoreapp3.1\11. Fruit Shop.csproj.CoreCompileInputs.cache
+C:\Users\teodo\source\repos\Conditional Statements Advanced - Lab\11. Fruit Shop\obj\Debug\netcoreapp3.1\11. Fruit Shop.dll
+C:\Users\teodo\source\repos\Conditional Statements Advanced - Lab\11. Fruit Shop\obj\Debug\netcoreapp3.1\11. Fruit Shop.pdb
+C:\Users\teodo\source\repos\Conditional Statements Advanced - Lab\11. Fruit Shop\obj\Debug\netcoreapp3.1\11. Fruit Shop.genruntimeconfig.cache
